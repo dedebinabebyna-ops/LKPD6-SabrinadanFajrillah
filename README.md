@@ -25,10 +25,13 @@ Merge Conflict adalah kondisi ketika Git tidak dapat menggabungkan dua branch se
 - [v] Log graph menunjukkan cabang yang berpisah dan menyatu kembali (3-way merge).
  
  [v] Screenshot Terminal saat terjadi pesan CONFLICT
+ ![Pesan Conflict](assets/conflict.png)
 
 [v] Screenshot Text Editor (VS Code) yang menampilkan penanda <<<<<<< HEAD
+![Penanda Conflict](assets/vscode.png)
 
 [v] Screenshot hasil analisis git log --graph --oneline --all yang menunjukkan merge
+![Log Graph](assets/graph.png)
 ---
 
 ## I. Simulasi Masalah (Studi Kasus)
